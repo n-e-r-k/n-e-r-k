@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @n-e-r-k
-- 👀 I’m interested in ...
--   Sysadmin and logistics
-- 🌱 I’m currently learning ...
--   Soon to be java, but that is not by choice lol, would rather learn javascript
-- 💞️ I’m looking to collaborate on ...
--   Beginner projects
-- 📫 How to reach me ...
--   Carrier Pigion
+# nerk
+Innovation is bound with passion.
+
+Currently in school for computer science.
+
+## Current proficiencies
+*NOTE:* This does not include everything I am capable with. It is just a rough roadmap of skills I am focused in.
+
+- System management
+	- Linux
+	- Unix
+	- BSD
+	- \*nix Service Mangement
+
+- Programming languages
+  - Python 
+  - C/C++
+  - Java
+  - Bash
+
+- Docker
+	- Docker Build
+	- Docker Network Management
+
+- Typesetting languages
+  - LaTeX
+  - KaTeX
+  - Markdown
+
+## Current Interests
+- Looking for projects to collaborate on.
